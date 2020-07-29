@@ -36,5 +36,11 @@ export default {
 </script>
 
 <style>
+  body {
+    background-color: #ceeee3;
+  }
 
+  h1 {
+    color: #003a35;
+  }
 </style>

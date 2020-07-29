@@ -26,4 +26,9 @@ export default {
 
 <style>
 
+    select {
+        width: 200px;
+        height: 40px;
+    }
+
 </style>
