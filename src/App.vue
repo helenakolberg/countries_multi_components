@@ -13,7 +13,8 @@ export default {
   name: 'app',
   data() {
     return {
-      countries: [] 
+      countries: [],
+      selectedCountry: null
     };
   },
 
